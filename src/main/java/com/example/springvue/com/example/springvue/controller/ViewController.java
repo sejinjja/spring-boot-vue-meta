@@ -16,6 +16,6 @@ public class ViewController {
 
         model.addAttribute("storeInfo", mockStoreDao.getInfo(store));
 
-        return "store.html";
+        return "index.html";
     }
 }
