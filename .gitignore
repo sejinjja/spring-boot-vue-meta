@@ -23,3 +23,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### just build result ###
+/src/main/resources/static
+/src/main/resources/templates
