@@ -37,6 +37,10 @@ module.exports = {
         options: vueLoaderConfig
       },
       {
+        test: /\.hbs$/,
+        loader: 'handlebars-loader'
+      },
+      {
         test: /\.js$/,
         loader: 'babel-loader',
         include: [resolve('src'), resolve('test'), resolve('node_modules/webpack-dev-server/client')]
