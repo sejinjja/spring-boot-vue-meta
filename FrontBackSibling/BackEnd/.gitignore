@@ -23,3 +23,6 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### 구조상에 불필요 한 내용 ###
+/src/main/resources
