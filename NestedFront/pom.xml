@@ -6,7 +6,10 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-vue</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+    <modules>
+        <module>../spring-boot-vue</module>
+    </modules>
+    <packaging>pom</packaging>
 
 	<name>spring-vue</name>
 	<description>Demo project for Spring Boot</description>
