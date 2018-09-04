@@ -1,0 +1,1 @@
+java -Dspring.resources.static-locations=file:./resources/static -Dspring.thymeleaf.prefix=file:./resources/templates/ -jar .\BackEnd-0.0.1-SNAPSHOT.jar
