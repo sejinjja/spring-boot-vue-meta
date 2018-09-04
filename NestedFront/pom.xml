@@ -6,9 +6,6 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-vue</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-    <modules>
-        <module>../spring-boot-vue</module>
-    </modules>
     <packaging>pom</packaging>
 
 	<name>spring-vue</name>
